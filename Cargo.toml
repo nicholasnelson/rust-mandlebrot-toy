@@ -1,0 +1,9 @@
+[package]
+name = "mandle"
+version = "0.1.0"
+authors = ["Nick Nelson <nnelson@staff.iinet.net.au>"]
+edition = "2018"
+
+[dependencies]
+image = "*"
+num-complex = "*"
